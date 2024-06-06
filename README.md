@@ -2,11 +2,11 @@
 
 ## Alunos
 
-Caio Henrique Soares Siqueira - 01509846
-Eliabe Wesley da Silva - 01571655
-Lucas Lourenço da Silva - 01588150
-Lucas Nobre Esteves Ribeiro - 01516392
-Caio Nemésio de Araújo e Sousa - 01564870
+- Caio Henrique Soares Siqueira - 01509846
+- Eliabe Wesley da Silva - 01571655
+- Lucas Lourenço da Silva - 01588150
+- Lucas Nobre Esteves Ribeiro - 01516392
+- Caio Nemésio de Araújo e Sousa - 01564870
 
 ## Conceito do jogo
 
